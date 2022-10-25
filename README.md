@@ -16,6 +16,6 @@ Environment: ```Google Colab``` is recommended
 ## Results
 All the fits were implemented with GridSearchCV using ```CV``` = 10. Performance measurement is defined by ```ROC-AUC``` curve. A little analysis also implemented.
 
-**LogisticRegression**: ROC-AUC = 0.84601
-**XGBoost**: ROC-AUC = 0.85061
-**CatBoost**: ROC-AUC = 0.85525
+- **LogisticRegression**: ROC-AUC = 0.84601
+- **XGBoost**: ROC-AUC = 0.85061
+- **CatBoost**: ROC-AUC = 0.85525
